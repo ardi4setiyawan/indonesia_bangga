@@ -1,11 +1,20 @@
 # Indonesia Bangga
 
 ini adalah project latihan flutter tugas ke 3 dari Eudeka OSG7.
-menampilkan beberapa biografi para altlet kebanggaan indonesia.
+mengambil tema hari olahraga nasional, di aplikasi ini mencoba menampilkan beberapa biografi para altlet kebanggaan indonesia.
 
 dicoba debuging dengan android simulator (pixel 3A).
 
 mohon berkenan memberi saran / arahan, Terimakasih.
+
+
+## Dibuat oleh: Ardi Setiyawan
+
+
+# SCREEN RECORD
+
+![](playback.gif)
+
 
 ## Getting Started
 
